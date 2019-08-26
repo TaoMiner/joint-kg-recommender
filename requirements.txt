@@ -1,0 +1,3 @@
+conda install python-gflags
+pip install visdom
+conda install -c conda-forge tqdm
